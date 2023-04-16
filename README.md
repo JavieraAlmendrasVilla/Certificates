@@ -2,7 +2,6 @@
 
 ## Profesional
 
-
 - 2022 | Bachelor of Science International Business and Economics | Otto von Guericke University of Magdeburg | Germany <br> [here](https://github.com/JavieraAlmendrasVilla/Certificates/blob/main/Cert.%20IBE.jpg) 
 
 - 2014 | Doctor of Dental Surgery | Universidad de la Frontera | Chile<br> [here](https://github.com/JavieraAlmendrasVilla/Certificates/blob/main/Certificado%20Cirujano%20Dentista.jpg)
